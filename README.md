@@ -2,9 +2,9 @@
 
 I'm Eric, a data scientist and programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning [tidymodels](https://www.tidymodels.org/), [SymPy](sympy.org), [C/C++](https://www.cprogramming.com/), and [TensorFlow](https://www.tensorflow.org/).
-- 👯 I’m looking to collaborate on open source tools that empower individuals to solve problems.
+- 🔭 I’m currently working on writing math articles for building my data science portfolio, [freeCodeCamp](https://www.freecodecamp.org/news/), and fun data side projects.
+- 🌱 I’m currently learning [tidymodels](https://www.tidymodels.org/), [SymPy](sympy.org), [C/C++](https://www.cprogramming.com/), [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/), and [TensorFlow](https://www.tensorflow.org/).
+- 👯 I’m looking to collaborate on open source tools that empower individuals to solve problems and learn.
 - 💬 Ask me about open science, open source, data science, and education
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I write with fountain pens
