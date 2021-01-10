@@ -16,5 +16,6 @@ I'm Eric, a data scientist, programmer, and consultant.
   <a href='https://erictleung.com'>Website</a> •
   <a href="mailto:erictleung&commat;outlook&period;com"> Email</a> •
   <a href='https://linkedin.com/in/erictleung'>LinkedIn</a> •
-  <a href='https://stackoverflow.com/users/6873133/eric-leung'>StackOverflow</a>
+  <a href='https://stackoverflow.com/users/6873133/eric-leung'>StackOverflow</a> •
+  <a href='https://dev.to/erictleung'>DEV</a>
 </div>
