@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+> "Instructions for living a life. Pay attention. Be astonished. Tell about it." 
+> -- Mary Oliver
+
 I'm Eric, a data scientist, programmer, and consultant.
 
 - 🔭 I’m currently working on building my data science portfolio, writing math articles for [freeCodeCamp](https://www.freecodecamp.org/news/), and fun data side projects.
