@@ -10,7 +10,7 @@ I'm Eric, a data scientist, programmer, and consultant.
 - 👯 I’m looking to collaborate on open source tools that empower individuals to solve problems and learn.
 - 💬 Ask me about open science, open source, data science, and education.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I write with fountain pens.
+- ⚡ Fun fact: I like good stationery and write with fountain pens.
 <!-- - 🤔 I’m looking for help with understanding how. -->
 <!-- - 📫 How to reach me: -->
 
