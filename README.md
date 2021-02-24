@@ -3,6 +3,7 @@
 <blockquote cite="https://www.goodreads.com/quotes/62038-instructions-for-living-a-life-pay-attention-be-astonished-tell">
     <p>Instructions for living a life. Pay attention. Be astonished. Tell about it.</p>
 </blockquote>
+
 — Mary Oliver
 
 I'm Eric, a data scientist, programmer, and consultant in search of virtuous cycles.
