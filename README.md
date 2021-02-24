@@ -4,7 +4,7 @@
     <p>Instructions for living a life. Pay attention. Be astonished. Tell about it.</p>
 </blockquote>
 
-— Mary Oliver
+— Mary Oliver, American poet
 
 I'm Eric, a data scientist, programmer, and consultant in search of virtuous cycles.
 
