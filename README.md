@@ -6,7 +6,7 @@
 
 — Mary Oliver, American poet
 
-I'm Eric, a data scientist, programmer, and consultant in search of virtuous cycles.
+I'm Eric, a data scientist, software engineer, and consultant in search of virtuous cycles.
 
 - 🔭 I’m currently working on building my data science portfolio, writing math articles for [freeCodeCamp](https://www.freecodecamp.org/news/), and fun data side projects.
 - 🌱 I’m currently learning [tidymodels](https://www.tidymodels.org/), [SymPy](https://sympy.org), [C/C++](https://www.cprogramming.com/), [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/), and [TensorFlow](https://www.tensorflow.org/)/[Keras](https://keras.io/).
