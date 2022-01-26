@@ -6,16 +6,18 @@
 
 — Mary Oliver, American poet
 
-- :technologist: Data Scientist and Software Engineer
+- :technologist: Currently: Data Scientist and Software Engineer
 - :telescope: I’m currently working on writing math articles for [freeCodeCamp](https://www.freecodecamp.org/news/), and fun data side projects.
 - :seedling: I’m currently learning about [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/) to build my own packages, [marketing strategies](https://en.wikipedia.org/wiki/Marketing_strategy) to help with work, and [tidymodels](tidymodels.org/) and [Bayesian statistics](https://www.bayesrulesbook.com/) as personal endeavors for the future.
-- :books: Currently reading: [There, There](https://en.wikipedia.org/wiki/There_There_(novel)) by Tommy Orange
+- :books: Currently reading: [_The Autobiography of Martin Luther King, Jr_](https://books.google.com/books?id=pynSnGuC964C&pg=PT147#v=onepage&q&f=false) by Clayborne Carson
 - :dancers: I’m looking to collaborate on open source tools that empower individuals to solve problems and learn.
-- :speech_balloon: Ask me about open science, open source, data science, and education.
+- :speech_balloon: Ask me about open science, open source culture, data science, healthcare reform, and education reform.
 - :smile:  Pronouns: he/him
 - :zap: Fun fact: I like good stationery and write with fountain pens.
+- :mailbox: How to reach me: Twitter or LinkedIn
 <!-- - 🤔 I’m looking for help with understanding how. -->
-<!-- - 📫 How to reach me: -->
+
+**Last updated**: 2022-01-26
 
 <div align="center">
   <a href='https://twitter.com/erictleung'>Twitter</a> •
