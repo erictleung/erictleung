@@ -17,7 +17,7 @@
 - :mailbox: How to reach me: Twitter or LinkedIn
 <!-- - 🤔 I’m looking for help with understanding how. -->
 
-**Last updated**: 2022-01-26
+**Last updated**: 2022-05-31
 
 <div align="center">
   <a href='https://twitter.com/erictleung'>Twitter</a> •
