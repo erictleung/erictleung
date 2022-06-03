@@ -8,7 +8,7 @@
 
 - :technologist: Currently: Data Scientist and Software Engineer
 - :telescope: I’m currently working on writing math articles for [freeCodeCamp](https://www.freecodecamp.org/news/), and fun data side projects.
-- :seedling: I’m currently learning about [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/) to build my own packages, [marketing strategies](https://en.wikipedia.org/wiki/Marketing_strategy) to help with work, and [tidymodels](tidymodels.org/) and [Bayesian statistics](https://www.bayesrulesbook.com/) as personal endeavors for the future.
+- :seedling: I’m currently learning about [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/) to build my own packages, [marketing strategies](https://en.wikipedia.org/wiki/Marketing_strategy) to help with work, and [tidymodels](https://tidymodels.org/) and [Bayesian statistics](https://www.bayesrulesbook.com/) as personal endeavors for the future.
 - :books: Currently reading: [_The Master: The Long Run and Beautiful Game of Roger Federer_](https://bookshop.org/books/the-master-the-long-run-and-beautiful-game-of-roger-federer/9781538719268) by [Christopher Clarey](https://twitter.com/christophclarey)
 - :dancers: I’m looking to collaborate on open source tools that empower individuals to solve problems and learn.
 - :speech_balloon: Ask me about open science, open source culture, data science, healthcare reform, and education reform.
