@@ -8,8 +8,8 @@
 
 - :technologist: Currently: Data Scientist and Software Engineer
 - :telescope: I’m currently working on writing math articles for [freeCodeCamp](https://www.freecodecamp.org/news/), and fun data side projects.
-- :seedling: I’m currently learning about [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/) to build my own packages, [marketing strategies](https://en.wikipedia.org/wiki/Marketing_strategy) to help with work, and [tidymodels](https://tidymodels.org/) and [Bayesian statistics](https://www.bayesrulesbook.com/) as personal endeavors for the future.
-- :books: Currently reading: [_The Master: The Long Run and Beautiful Game of Roger Federer_](https://bookshop.org/books/the-master-the-long-run-and-beautiful-game-of-roger-federer/9781538719268) by [Christopher Clarey](https://twitter.com/christophclarey)
+- :seedling: I’m currently learning about [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/) to build my own packages, [marketing strategies](https://en.wikipedia.org/wiki/Marketing_strategy) to help with work, and [tidymodels](https://tidymodels.org/), [Bayesian statistics](https://www.bayesrulesbook.com/), and [Causal inference](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) as personal endeavors for the future.
+- :books: Currently reading: [_Creativity Inc._]([https://bookshop.org/books/the-master-the-long-run-and-beautiful-game-of-roger-federer/9781538719268](https://bookshop.org/p/books/creativity-inc-overcoming-the-unseen-forces-that-stand-in-the-way-of-true-inspiration-amy-wallace/6820366)) by Ed Catmull and Amy Wallace.
 - :dancers: I’m looking to collaborate on open source tools that empower individuals to solve problems and learn.
 - :speech_balloon: Ask me about open science, open source culture, data science, healthcare reform, and education reform.
 - :smile:  Pronouns: he/him
@@ -17,7 +17,7 @@
 - :mailbox: How to reach me: Twitter or LinkedIn
 <!-- - 🤔 I’m looking for help with understanding how. -->
 
-**Last updated**: 2022-05-31
+**Last updated**: 2023-01-02
 
 <div align="center">
   <a href='https://twitter.com/erictleung'>Twitter</a> •
