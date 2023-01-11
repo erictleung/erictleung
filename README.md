@@ -6,7 +6,7 @@
 
 — Mary Oliver, American poet
 
-- :technologist: Currently: Data Scientist and Software Engineer
+- :technologist: Currently: Data Scientist, Data Science Educator, Software Engineer
 - :telescope: I’m currently working on writing math articles for [freeCodeCamp](https://www.freecodecamp.org/news/), and fun data side projects.
 - :seedling: I’m currently learning about [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/) to build my own packages, [marketing strategies](https://en.wikipedia.org/wiki/Marketing_strategy) to help with work, and [tidymodels](https://tidymodels.org/), [Bayesian statistics](https://www.bayesrulesbook.com/), and [Causal inference](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) as personal endeavors for the future.
 - :books: Currently reading: [_Creativity Inc._]([https://bookshop.org/books/the-master-the-long-run-and-beautiful-game-of-roger-federer/9781538719268](https://bookshop.org/p/books/creativity-inc-overcoming-the-unseen-forces-that-stand-in-the-way-of-true-inspiration-amy-wallace/6820366)) by Ed Catmull and Amy Wallace.
