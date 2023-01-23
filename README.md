@@ -15,7 +15,6 @@
 - :smile:  Pronouns: he/him
 - :zap: Fun fact: I like good stationery and write with fountain pens.
 - :mailbox: How to reach me: Twitter or LinkedIn
-<!-- - 🤔 I’m looking for help with understanding how. -->
 
 **Last updated**: 2023-01-02
 
@@ -23,9 +22,10 @@
   <a href='https://twitter.com/erictleung'>Twitter</a> •
   <a href='https://erictleung.com'>Website</a> •
   <a href="mailto:erictleung&commat;outlook&period;com"> Email</a> •
+  <a rel="me" href="https://mastodon.social/@erictleung">Mastodon</a> •
   <a href='https://linkedin.com/in/erictleung'>LinkedIn</a> •
   <a href='https://stackoverflow.com/users/6873133/eric-leung'>StackOverflow</a> •
   <a href='https://www.quora.com/profile/Eric-Leung-2'>Quora</a> •
-  <a rel="me" href="https://mastodon.social/@erictleung">Mastodon</a> •
+  <a href='https://public.tableau.com/app/profile/erictleung'>Tableau</a> •
   <a href='https://dev.to/erictleung'>DEV</a>
 </div>
