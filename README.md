@@ -8,7 +8,7 @@
 
 - :technologist: Currently: Data Scientist, Data Science Educator, Software Engineer
 - :telescope: I’m currently working on writing math articles for [freeCodeCamp](https://www.freecodecamp.org/news/), and fun data side projects.
-- :seedling: I’m currently learning about [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/) to build my own packages, [marketing strategies](https://en.wikipedia.org/wiki/Marketing_strategy) to help with work, [Econometrics with R]([https://tidymodels.org/](https://www.econometrics-with-r.org/), [Bayesian statistics](https://www.bayesrulesbook.com/), and [Causal inference](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) as personal/professional endeavors for the future.
+- :seedling: I’m currently learning about [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/) to build my own packages, [marketing strategies](https://en.wikipedia.org/wiki/Marketing_strategy) to help with work, [Econometrics with R](https://www.econometrics-with-r.org/), [Bayesian statistics](https://www.bayesrulesbook.com/), and [Causal inference](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) as personal/professional endeavors for the future.
 - :books: Currently reading: [_The Diamond Age: Or, a Young Lady's Illustrated Primer_](https://bookshop.org/p/books/the-diamond-age-or-a-young-lady-s-illustrated-primer-neal-stephenson/8466804?ean=9780553380965) by Neal Stephenson.
 - :dancers: I’m looking to collaborate on open source tools that empower individuals to solve problems and learn.
 - :speech_balloon: Ask me about open science, open source culture, data science, healthcare reform, and education reform.
