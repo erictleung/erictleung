@@ -1,0 +1,14 @@
+name: Update Last Update Date
+
+on: push
+
+jobs:
+  update_date:
+    name: Update Last Updated
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source files
+        uses: actions/checkout@v2
+
+      - name: Run checks on links
+        run: bash update_last_updated.sh
