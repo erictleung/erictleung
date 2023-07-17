@@ -16,7 +16,7 @@
 - :zap: Fun fact: I like writing with fountain pens on good stationery and notebooks.
 - :mailbox: How to reach me: Twitter or LinkedIn
 
-**Last updated**: 2023-07-10
+**Last updated**: 2023-07-17
 
 <div align="center">
   <a href='https://twitter.com/erictleung'>Twitter</a> •
