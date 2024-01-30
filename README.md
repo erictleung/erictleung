@@ -6,7 +6,7 @@
 
 — Mary Oliver, American poet
 
-- :technologist: Currently: Data Scientist Engineer and Educator
+- :technologist: Currently: Data Scientist (full-time), Engineer (at heart), and Educator (in practice)
 - :telescope: I’m currently working on writing math articles for [freeCodeCamp](https://www.freecodecamp.org/news/), and fun data side projects.
 - :seedling: I’m currently learning about [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/) to build my own packages, [marketing](https://marketing-dictionary.org/), [Econometrics with R](https://www.econometrics-with-r.org/), [Bayesian statistics](https://www.bayesrulesbook.com/), and [Causal inference](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) as personal/professional endeavors for the future.
 - :books: Currently reading: [_The Diamond Age: Or, a Young Lady's Illustrated Primer_](https://bookshop.org/p/books/the-diamond-age-or-a-young-lady-s-illustrated-primer-neal-stephenson/8466804?ean=9780553380965) by Neal Stephenson.
