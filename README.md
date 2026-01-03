@@ -18,7 +18,7 @@ I wrangle data to gain insights on media marketing measurement for future media 
 - :zap: Fun fact: I like writing with fountain pens on good stationery and notebooks, and I'm getting into photography.
 - :mailbox: How to reach me: LinkedIn or Bluesky
 
-**Last updated**: 2026-01-02
+**Last updated**: 2026-01-03
 
 <div align="center">
   <a href='https://linkedin.com/in/erictleung'>LinkedIn</a> •
